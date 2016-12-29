@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        
+    </head>
+    <body style="font-size:150%">
+       
+        <div align="center">
+             <h1> Example of calculator</h1>
+        <form method="post" action="cal">
+            <table  border="1" cellpadding="20" cellspacing="10">
+                <tr>
+                    <td>First number:</td>
+                    <td><input type="text" name="fn"></td>
+                </tr>
+                <tr>
+                    <td>Second number:</td>
+                    <td><input type="text" name="sn"></td>
+                </tr>
+                <tr>
+                    <td>operator</td>
+                    <td>
+                        <select name="op">
+                            <option value="+">+</option>
+                            <option value="-">-</option>
+                            <option value="*">*</option>
+                            <option value="/">/</option>
+                        </select>
+                    </td>
+                </tr>
+              
+                <tr>
+                    <td><input type="SUBMIT" value="CALCULATE" class="btn"></td>
+                    <td><input type="SUBMIT" value="RESET" class="btn"></td>
+                </tr>
+            </table>
+        </form>
+        </div>
+    </body>
+</html>

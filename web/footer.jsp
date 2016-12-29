@@ -1,0 +1,18 @@
+<%-- 
+    Document   : footer
+    Created on : 22 Dec, 2016, 4:27:18 PM
+    Author     : mca1
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <hr>
+        <p &copy k.J.SIMSER></p>
+    </body>
+</html>

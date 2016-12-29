@@ -1,0 +1,33 @@
+body{
+    background-color:#26A69A;
+    color:black;
+    font-size: 150%;
+    font-family:sans-serif;
+    
+}
+table
+{
+    margin-top:100px; 
+    border-style: solid;
+}
+.bg
+{
+     font-size: 75%;
+}
+.fc
+{
+    font-size:75%;
+}
+.btn
+{
+     font-size: 75%;
+     color:black;
+}
+.f
+{
+     font-size: 75%;
+}
+.f1
+{
+     font-size: 75%;
+}
